@@ -1,0 +1,3 @@
+Back-most side mouse button | Toggle Run
+
+Pause Break | Pauses the program making it not respond to your inputs.

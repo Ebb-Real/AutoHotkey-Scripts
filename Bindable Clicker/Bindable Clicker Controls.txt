@@ -1,0 +1,8 @@
+0-9 | The first time this is pressed, it will store your cursor's location and bind it to the number you pressed. The second time this number is pressed, the program will click in that location, and bring your mouse back to where it originally was.
+
+Delete | This will clear all saved and bound locations, making room for new cursor locations to be bound.
+
+Pause Break | This will toggle pause of the program, making it not respond to your inputs.
+
+Back-most side mouse button | This will toggle the option for the program to automaticly click when returning to the cursors original location after it has clicked in the bound location.
+
