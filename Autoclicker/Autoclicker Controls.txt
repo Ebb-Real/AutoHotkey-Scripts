@@ -1,5 +1,5 @@
-Front-most side mouse button | Mouse begins to repeatedly click
+Front-most side mouse button | Mouse begins to repeatedly click.
 
-Back-most side mouse button | Stops mouse from repeatedly clicking
+Back-most side mouse button | Stops mouse from repeatedly clicking.
 
 Pause Break | Pauses the program making it not respond to your inputs.

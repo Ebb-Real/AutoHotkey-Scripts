@@ -1,1 +1,3 @@
-Front-most side mouse button | Cycles Node map
+Front-most side mouse button | Cycles node map.
+
+Delete | Clears and reselects picture.
